@@ -4,7 +4,6 @@ function changeMode(){
 }
 function loadCoupon(){
     document.getElementById('coupon').style.visibility ='visible';
-
 }
 
 function closeCoupon(){
